@@ -9,6 +9,7 @@ import { toast } from "react-toastify";
 import { useDispatch, useSelector } from "react-redux";
 import { addUser, removeUser } from "../redux/bazarSlice";
 import { useNavigate } from "react-router-dom";
+import { app } from "../firebase.config";
 
 const Login = () => {
   const auth = getAuth();
