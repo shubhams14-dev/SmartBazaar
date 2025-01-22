@@ -52,7 +52,7 @@ const Login = () => {
       <div className="w-full max-w-md p-8 space-y-8 bg-white shadow-lg rounded-lg">
         <div className="text-center">
           <h2 className="mt-6 text-3xl font-extrabold text-gray-900">
-            Welcome to eBazaar
+            Welcome to SmartBazaar
           </h2>
           <p className="mt-2 text-sm text-gray-600">
             Sign in to your account
@@ -79,7 +79,7 @@ const Login = () => {
             onClick={handleSignOut}
             className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
           >
-            Sign Out of eBazaar
+            Sign Out of SmartBazaar
           </button>
         )}
       </div>

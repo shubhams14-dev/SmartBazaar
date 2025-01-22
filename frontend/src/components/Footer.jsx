@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row md:items-center md:justify-between space-y-6 md:space-y-0">
           <div className="flex items-center">
             <span className="text-2xl md:text-3xl text-white font-bold font-titleFont relative">
-              eBazaar
+              SmartBazaar
               <span className="absolute bottom-1 left-0 w-full h-0.5 bg-white transform scale-x-0 transition-transform duration-300 group-hover:scale-x-100"></span>
             </span>
           </div>
@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
         <hr className="my-8 border-gray-700" />
         <div className="text-center text-sm">
-          © {currentYear} eBazaar. All Rights Reserved.
+          © {currentYear} SmartBazaar. All Rights Reserved.
         </div>
       </div>
     </footer>
