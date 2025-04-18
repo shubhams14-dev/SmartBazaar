@@ -10,21 +10,21 @@ const Stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 
 app.use(
   cors({
-    origin: ["*"],
+    origin: ["https://smartbazaar.vercel.app"],
   })
 );
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.use(express.static(path.join(__dirname, "..", "client", "dist")));
+// app.use(express.static(path.join(__dirname, "..", "client", "dist")));
 
-app.get('/*', (req, res) => {
-	res.sendFile(path.join(__dirname, '../client/dist/index.html'), (err) => {
-		if (err) {
-			console.error('Error sending file:', err);
-		}
-	});
-});
+// app.get('/*', (req, res) => {
+// 	res.sendFile(path.join(__dirname, '../client/dist/index.html'), (err) => {
+// 		if (err) {
+// 			console.error('Error sending file:', err);
+// 		}
+// 	});
+// });
 
 app.post("/pay", async (req, res) => {
   console.log(req.body.token);
