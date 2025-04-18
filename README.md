@@ -110,6 +110,7 @@ SmartBazaar is a modern e-commerce platform that combines intelligent product ma
    - Frontend: `http://localhost:5173`
      (Deployed on: https://smartbazaar.vercel.app/)
    - Backend: `http://localhost:5000`
+     (Deployed on Render)
 
 ---
 
