@@ -122,4 +122,22 @@ SmartBazaar is a modern e-commerce platform that combines intelligent product ma
 - **Stripe**: Processes secure payment transactions.
 - **Firebase**: Manages user authentication and secure sessions.
 
+![image](https://github.com/user-attachments/assets/14fc70a4-d851-4ce0-a4a6-7dcc7a37a394)
+
+---
+## Website
+![image](https://github.com/user-attachments/assets/370176f4-2d8a-44c4-b064-9c8032eaa6fb)
+
+![image](https://github.com/user-attachments/assets/05677203-d4a0-49d6-a670-758e7fc33f30)
+
+![image](https://github.com/user-attachments/assets/abafc511-678b-477d-bd6b-f21b152e268c)
+
+![image](https://github.com/user-attachments/assets/77309c48-efc9-4fa2-9948-a8f43dc7aef4)
+
+![image](https://github.com/user-attachments/assets/d54384e1-cc6e-4c1e-a470-ac5706132cde)
+
+
+
+
+
 ---
