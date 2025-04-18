@@ -125,7 +125,7 @@ SmartBazaar is a modern e-commerce platform that combines intelligent product ma
 ![image](https://github.com/user-attachments/assets/14fc70a4-d851-4ce0-a4a6-7dcc7a37a394)
 
 ---
-## Website
+## Screenshots
 ![image](https://github.com/user-attachments/assets/370176f4-2d8a-44c4-b064-9c8032eaa6fb)
 
 ![image](https://github.com/user-attachments/assets/05677203-d4a0-49d6-a670-758e7fc33f30)
